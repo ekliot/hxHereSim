@@ -1,0 +1,8 @@
+# -main src/Main.hx
+# -cp src/township
+# -cp src/storytelling
+# -lib random
+# -neko main.n
+
+-main src/storytelling/Storyteller.hx
+-neko storyteller.n
